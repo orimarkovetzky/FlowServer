@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "C:\\Users\\orima\\source\\repos\\FlowServer\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{064072B2-1DE6-4E53-9A2D-E3F3C5E8C41F}|FlowServer.csproj|c:\\users\\orima\\source\\repos\\flowserver\\controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064072B2-1DE6-4E53-9A2D-E3F3C5E8C41F}|FlowServer.csproj|solutionrelative:controllers\\machinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064072B2-1DE6-4E53-9A2D-E3F3C5E8C41F}|FlowServer.csproj|c:\\users\\orima\\source\\repos\\flowserver\\models\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064072B2-1DE6-4E53-9A2D-E3F3C5E8C41F}|FlowServer.csproj|solutionrelative:models\\machine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064072B2-1DE6-4E53-9A2D-E3F3C5E8C41F}|FlowServer.csproj|c:\\users\\orima\\source\\repos\\flowserver\\dal\\machinedbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{064072B2-1DE6-4E53-9A2D-E3F3C5E8C41F}|FlowServer.csproj|solutionrelative:dal\\machinedbservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064072B2-1DE6-4E53-9A2D-E3F3C5E8C41F}|FlowServer.csproj|c:\\users\\orima\\source\\repos\\flowserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{064072B2-1DE6-4E53-9A2D-E3F3C5E8C41F}|FlowServer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{064072B2-1DE6-4E53-9A2D-E3F3C5E8C41F}|FlowServer.csproj|c:\\users\\orima\\source\\repos\\flowserver\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{064072B2-1DE6-4E53-9A2D-E3F3C5E8C41F}|FlowServer.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DE227B8-C8FF-48E8-B5C2-8FCA1A319E5D}|Solution Items{4DE227B8-C8FF-48E8-B5C2-8FCA1A319E5D}|C:\\Users\\orima\\source\\repos\\FlowServer\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{4DE227B8-C8FF-48E8-B5C2-8FCA1A319E5D}|Solution Items{4DE227B8-C8FF-48E8-B5C2-8FCA1A319E5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -14,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 50,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +50,78 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\orima\\source\\repos\\FlowServer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\orima\\source\\repos\\FlowServer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T14:10:35.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\orima\\source\\repos\\FlowServer\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\orima\\source\\repos\\FlowServer\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-26T14:10:32.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MachineDBServices.cs",
+              "DocumentMoniker": "C:\\Users\\orima\\source\\repos\\FlowServer\\DAL\\MachineDBServices.cs",
+              "RelativeDocumentMoniker": "DAL\\MachineDBServices.cs",
+              "ToolTip": "C:\\Users\\orima\\source\\repos\\FlowServer\\DAL\\MachineDBServices.cs",
+              "RelativeToolTip": "DAL\\MachineDBServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:07:16.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Machine.cs",
+              "DocumentMoniker": "C:\\Users\\orima\\source\\repos\\FlowServer\\Models\\Machine.cs",
+              "RelativeDocumentMoniker": "Models\\Machine.cs",
+              "ToolTip": "C:\\Users\\orima\\source\\repos\\FlowServer\\Models\\Machine.cs",
+              "RelativeToolTip": "Models\\Machine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:07:02.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MachineController.cs",
+              "DocumentMoniker": "C:\\Users\\orima\\source\\repos\\FlowServer\\Controllers\\MachineController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MachineController.cs",
+              "ToolTip": "C:\\Users\\orima\\source\\repos\\FlowServer\\Controllers\\MachineController.cs",
+              "RelativeToolTip": "Controllers\\MachineController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:06:42.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\orima\\source\\repos\\FlowServer\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
               "ToolTip": "C:\\Users\\orima\\source\\repos\\FlowServer\\.gitignore",
               "RelativeToolTip": ".gitignore",
-              "ViewState": "AgIAABgBAAAAAAAAAAAswI8BAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAI8BAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-03-26T14:00:54.327Z",
               "EditorCaption": ""
