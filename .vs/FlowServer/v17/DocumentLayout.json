@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\orima\\source\\repos\\FlowServer\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DE227B8-C8FF-48E8-B5C2-8FCA1A319E5D}|Solution Items{4DE227B8-C8FF-48E8-B5C2-8FCA1A319E5D}|C:\\Users\\orima\\source\\repos\\FlowServer\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4DE227B8-C8FF-48E8-B5C2-8FCA1A319E5D}|Solution Items{4DE227B8-C8FF-48E8-B5C2-8FCA1A319E5D}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 50,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,6 +27,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\orima\\source\\repos\\FlowServer\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\orima\\source\\repos\\FlowServer\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAABgBAAAAAAAAAAAswI8BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-26T14:00:54.327Z",
+              "EditorCaption": ""
             }
           ]
         }
