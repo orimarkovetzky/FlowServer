@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "S5LyRXV6quxnbHYLITqUBLER4zq2hgd3KnxW5sys4oE=",
+  "Source": "FlowServer",
+  "BasePath": "_content/FlowServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
