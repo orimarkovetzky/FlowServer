@@ -11,5 +11,12 @@ namespace FlowServer.Controllers
         {
             return Machine.ReadMachines();
         }
+
+        [HttpPut("{id}/status")]
+        public IActionResult UpdateMachineStatus(int id, [FromBody] int newStatus)
+        {
+            Machine.ChangeMachineStatus(id, newStatus);
+            return Ok();
+        }
     }
 }

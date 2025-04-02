@@ -1,4 +1,6 @@
-﻿namespace FlowServer.Models
+﻿using FlowServer.DAL;
+
+namespace FlowServer.Models
 {
     public class Machine
     {
@@ -19,13 +21,9 @@
         }
         public Machine()
         {
-
+         
         }
 
-        public int UpdateStatus(int status)
-        {
-            return 1;
-        }
 
         public static List<Machine> ReadMachines()
         {
@@ -33,5 +31,10 @@
             return dbs.ReadMachines();
         }
 
+        public static void ChangeMachineStatus(int machineId, int newStatus)
+        {
+            MachineDBServices dbs = new MachineDBServices();
+            dbs.ChangeMachineStatus(machineId, newStatus);
+        }
     }
 }
